@@ -1,6 +1,6 @@
 For use when converting a Light GUI element to Dark.
 
-##Installing
+# Installing
 
 	1. Open GIMP
 	2. In main window select `Color > Hue-Saturation`
@@ -9,7 +9,7 @@ For use when converting a Light GUI element to Dark.
 	5. Navigate to location of `DokuLight2Dark-Hue-Satur` file.
 	6. Select, then click Open
 
-##Using
+# Using
 
 	1. Select area to be converted.
 	2. Make sure `Image > Mode > RGB` is enabled.
